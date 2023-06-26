@@ -32,7 +32,7 @@ The article discusses the challenges associated with data preparation, increment
 
 ### How would I distribute the content to reach your audience?
 
-Industry-specific websites and blogs including dlthub.com blog.
-Create video tutorials that explain the use cases of integrating AI and dlt and sharing them in Youtube.
-LinkedIn and relevant subreddits.
-Sharing in [Hacker News](https://news.ycombinator.com/)
+-Publishing at industry-specific websites and blogs including dlthub.com blog.
+-Creating video tutorials that explain the use cases of integrating AI and dlt and sharing them in Youtube.
+-LinkedIn and relevant subreddits.
+-Sharing on [Hacker News](https://news.ycombinator.com/)
